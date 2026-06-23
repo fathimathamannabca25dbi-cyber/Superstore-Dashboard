@@ -217,5 +217,4 @@ with tab4:
 st.markdown("---")
 min_year=filtered["ordyr"].min()
 max_year=filtered["ordyr"].max()
-st.caption(f"Showing {len(filtered):,}rows-{min_year}-{max_year}.Built by Fathimakp")vmax_year=filtered["ordyr"].max()
-st.caption(f"Showing {len(filtered):,}rows-{min_year}-{max_year}.Built by Fathimakp")
+st.caption(f"Showing {len(filtered):,}rows-{min_year}-{max_year}.Built by Fathima Thamanna")
